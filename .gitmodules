@@ -1,0 +1,6 @@
+[submodule "uart"]
+	path = uart
+	url = https://github.com/ryanj1234/uart
+[submodule "spi"]
+	path = spi
+	url = https://github.com/ryanj1234/spi
